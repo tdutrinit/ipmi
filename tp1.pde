@@ -8,7 +8,6 @@ void setup () {
 
 void draw () {
   image (brc, 400, 0);
-  //  image (brc, 0, 0); 
   line (35, 215, 121, 398);
   noStroke();  
   fill (255, 200, 100);  
@@ -32,7 +31,6 @@ void draw () {
   stroke (255, 255, 255);
   fill (0, 175, 100);
   rect (146, 215, 70, 45);
-  rect (0, 165, 200, 200);
   noStroke();
   fill (255);
   // nube 1
